@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Política de Privacidad – Barradev AI & IT Solutions</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="max-width: 800px; margin: 2rem auto; font-family: sans-serif; line-height: 1.6;">
+  <h1>Política de Privacidad – Barradev AI & IT Solutions</h1>
+
+  <p>
+    En Barradev AI & IT Solutions nos comprometemos a proteger la privacidad de los usuarios que completan nuestros formularios.
+    La información recopilada (nombre, correo electrónico, empresa, cargo, y cualquier otro dato ingresado) será utilizada únicamente con el fin de responder consultas, brindar asesoramiento y ofrecer nuestros servicios.
+  </p>
+
+  <p>
+    No compartimos esta información con terceros, ni la utilizamos con fines distintos a los declarados.
+    Los datos son almacenados de forma segura y solo por el tiempo necesario para dar seguimiento a la consulta.
+  </p>
+
+  <p>
+    El usuario puede solicitar la modificación o eliminación de sus datos en cualquier momento escribiendo a 
+    <span id="correo"></span>.
+  </p>
+
+  <script>
+    const p1 = "contacto";
+    const p2 = "barradev";
+    const p3 = "com";
+    document.getElementById("correo").innerHTML = `<a href="mailto:${p1}@${p2}.${p3}">${p1}@${p2}.${p3}</a>`;
+  </script>
+</body>
+</html>
+
