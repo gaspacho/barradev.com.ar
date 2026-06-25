@@ -1,6 +1,18 @@
 ### Hero
 
-#### Consultoría en adquisición, analísis y presentación de datos
+#### Título
+
+Consultoría en adquisición, analísis y presentación de datos
+
+Captura de datos, auditoría y automatización de procesos.
+
+
+
+Captura, auditoría de datos y automatización de procesos.
+
+
+
+
 
 **Opción 1: Enfocada en la Eficiencia Operativa (La más corporativa)**
 
